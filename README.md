@@ -1,6 +1,6 @@
 Hi 👋, I'm Nghia
 
-A passionate developer from Vietnam 🇻🇳
+A Software Engineer from Vietnam
 
 ✍ I am a student at Duy Tan University
 
